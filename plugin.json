@@ -1,0 +1,12 @@
+{
+  "ID":"32DA7183C46C4F279DC35554363301F2",
+  "ActionKeyword":"cd",
+  "Name":"Codes",
+  "Description":"Codes",
+  "Author":"Ever",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"http://www.getwox.com",
+  "IcoPath":"Images\\app.png",
+  "ExecuteFileName":"main.py"
+}
