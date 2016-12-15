@@ -17,8 +17,8 @@ class Main(Wox):
 
     def make_item(self, name, key, output):
         return {
-            'Title': output,
-            'SubTitle': '%s of %s' % (name, key),
+            'Title': '%s: %s' % (name, output),
+            'SubTitle': 'Press enter to copy',
             'IcoPath': 'Images/app.ico',
             'JsonRPCAction': {
                 'method': 'copy',
